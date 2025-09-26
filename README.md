@@ -19,3 +19,6 @@ SEND_ENABLED=false
 실행
 
 python jeju_parking/p2_sign_emitter.py
+
+
+For the Korean version of this documentation, please refer to [README_ko.md](README_ko.md).
