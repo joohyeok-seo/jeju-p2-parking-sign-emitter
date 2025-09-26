@@ -1,3 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.pyre/
+.python-version
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env & secrets
+.env
+*.key
+*.pem
+
+# Project-specific large/vendor
+다빛프로그램/
+Sys/
+참고자료/
+vendor/
+docs/raw/
+assets/large/
+
+# Binary / large files (keep source light)
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.msi
+*.fnt
+*.bmp
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
